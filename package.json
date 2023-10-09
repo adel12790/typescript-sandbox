@@ -4,5 +4,8 @@
   },
   "devDependencies": {
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
   }
 }
